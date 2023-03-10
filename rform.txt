@@ -24,10 +24,10 @@
                     <label for="name">Name:</label>
                     <input type="text" id="name" name="name" placeholder="enter your name" required><br><br>
 
-                    <label for="contact no">Contact no:</label>
+                    <label for="mobile no">Contact no:</label>
                     <input type="tel" id="contact no" name="contact no" placeholder="contact no" required><br><br>
 
-                    <label for="city">City:</label>
+                    <label for="place">City:</label>
                     <input type="text" id="city" name="city" placeholder ="enter city" required><br><br>
                 </form>
   
